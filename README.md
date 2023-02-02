@@ -1,1 +1,3 @@
-# gpt3-fine-tuning-data-preparation
+# GPT3 file tuning data preparation
+
+##### Converting CSV file to JSONL format for fine-tuning GPT-3
