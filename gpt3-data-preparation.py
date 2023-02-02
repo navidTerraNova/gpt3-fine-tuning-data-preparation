@@ -2,7 +2,7 @@
 import pandas as pd
 
 
-filename = 'CrossWord.txt'
+filename = 'CrossWord.jsonl'
 csvFilePath = 'your_csv_file_path'
 
 # append mode
